@@ -1,0 +1,480 @@
+[
+    {
+        "name": "Alumni Coliseum",
+        "id": 1001,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.737395,
+            "longitude": -84.301433
+        }
+    },
+    {
+        "name": "Ashland Building",
+        "id": 1002,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.730821,
+            "longitude": -84.300585
+        }
+    },
+    {
+        "name": "Burnam Hall",
+        "id": 1003,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740820,
+            "longitude": -84.299132
+        }
+    },
+    {
+        "name": "Burrier Building",
+        "id": 1004,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742581,
+            "longitude": -84.298768
+        }
+    },
+    {
+        "name": "Business and Technology Center",
+        "id": 1005,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.733201,
+            "longitude": -84.303019
+        }
+    },
+    {
+        "name": "Cammack Building",
+        "id": 1006,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741867,
+            "longitude": -84.301692
+        }
+    },
+    {
+        "name": "Campbell Building",
+        "id": 1007,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.743129,
+            "longitude": -84.299293
+        }
+    },
+    {
+        "name": "Carter Building",
+        "id": 1008,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.734099,
+            "longitude": -84.300462
+        }
+    },
+    {
+        "name": "Case Dining Hall",
+        "id": 1009,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.739805,
+            "longitude": -84.299460
+        }
+    },
+    {
+        "name": "Center for the Arts",
+        "id": 1010,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.733577,
+            "longitude": -84.303983
+        }
+    },
+    {
+        "name": "Clay Hall",
+        "id": 1011,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740300,
+            "longitude": -84.298187
+        }
+    },
+    {
+        "name": "Coates Building",
+        "id": 1012,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.743124,
+            "longitude": -84.301069
+        }
+    },
+    {
+        "name": "Combs Building",
+        "id": 1013,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740545,
+            "longitude": -84.301302
+        }
+    },
+    {
+        "name": "Commonwealth Hall",
+        "id": 1014,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.737634,
+            "longitude": -84.299099
+        }
+    },
+    {
+        "name": "Crabbe Library",
+        "id": 1015,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741041,
+            "longitude": -84.300803
+        }
+    },
+    {
+        "name": "Dizney Building",
+        "id": 1016,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.737645,
+            "longitude": -84.297914
+        }
+    },
+    {
+        "name": "Foster Building",
+        "id": 1017,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.743243,
+            "longitude": -84.299753
+        }
+    },
+    {
+        "name": "Hanger Field",
+        "id": 1018,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.734406,
+            "longitude": -84.297239
+        }
+    },
+    {
+        "name": "Hughes Baseball Field",
+        "id": 1019,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.736132,
+            "longitude": -84.300355
+        }
+    },
+    {
+        "name": "Hummel Planetarium",
+        "id": 1020,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.730508,
+            "longitude": -84.303821
+        }
+    },
+    {
+        "name": "Jones Building",
+        "id": 1021,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742730,
+            "longitude": -84.300594
+        }
+    },
+    {
+        "name": "Keen Johnson Building",
+        "id": 1022,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740545,
+            "longitude": -84.299975
+        }
+    },
+    {
+        "name": "Keene Hall",
+        "id": 1023,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.734977,
+            "longitude": -84.304496
+        }
+    },
+    {
+        "name": "Keith Building",
+        "id": 1024,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740733,
+            "longitude": -84.302178
+        }
+    },
+    {
+        "name": "Begley Building\Kidd Stadium",
+        "id": 1025,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.734650,
+            "longitude": -84.298121
+        }
+    },
+    {
+        "name": "Martin Hall",
+        "id": 1026,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.739843,
+            "longitude": -84.302785
+        }
+    },
+    {
+        "name": "Mattox Hall",
+        "id": 1027,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.738308,
+            "longitude": -84.302584
+        }
+    },
+    {
+        "name": "McCreary Hall",
+        "id": 1028,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741530,
+            "longitude": -84.302433
+        }
+    },
+    {
+        "name": "McGregor Hall",
+        "id": 1029,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740144,
+            "longitude": -84.300926
+        }
+    },
+    {
+        "name": "McKinney Complex",
+        "id": 1030,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.730258,
+            "longitude": -84.298864
+        }
+    },
+    {
+        "name": "Memorial Science Building",
+        "id": 1031,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742364,
+            "longitude": -84.301089
+        }
+    },
+    {
+        "name": "Miller Hall",
+        "id": 1032,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741206,
+            "longitude": -84.301904
+        }
+    },
+    {
+        "name": "Moberly Building",
+        "id": 1033,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.735731,
+            "longitude": -84.297571
+        }
+    },
+    {
+        "name": "Moore Building",
+        "id": 1034,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741657,
+            "longitude": -84.301215
+        }
+    },
+    {
+        "name": "New Science Building",
+        "id": 1035,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.738928,
+            "longitude": -84.297699
+        }
+    },
+    {
+        "name": "Palmer Hall",
+        "id": 1036,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.738054,
+            "longitude": -84.299585
+        }
+    },
+    {
+        "name": "Perkins Building",
+        "id": 1037,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.730662,
+            "longitude": -84.303108
+        }
+    },
+    {
+        "name": "Powell Building",
+        "id": 1038,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.739766,
+            "longitude": -84.300001
+        }
+    },
+    {
+        "name": "Roark Building",
+        "id": 1039,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742569,
+            "longitude": -84.301422
+        }
+    },
+    {
+        "name": "Rowlett Building",
+        "id": 1040,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.738283,
+            "longitude": -84.298435
+        }
+    },
+    {
+        "name": "Stratton Building",
+        "id": 1041,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.729410,
+            "longitude": -84.304824
+        }
+    },
+    {
+        "name": "Sullivan Hall",
+        "id": 1042,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741447,
+            "longitude": -84.298812
+        }
+    },
+    {
+        "name": "Telford Hall",
+        "id": 1043,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742494,
+            "longitude": -84.295573
+        }
+    },
+    {
+        "name": "Turley House",
+        "id": 1044,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742582,
+            "longitude": -84.298171
+        }
+    },
+    {
+        "name": "University Building",
+        "id": 1045,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.7412326,
+            "longitude": -84.301142
+        }
+    },
+    {
+        "name": "Wallace Building",
+        "id": 1046,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.739201,
+            "longitude": -84.298813
+        }
+    },
+    {
+        "name": "Walters Hall",
+        "id": 1047,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742997,
+            "longitude": -84.297842
+        }
+    },
+    {
+        "name": "Weaver Building",
+        "id": 1048,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.739637,
+            "longitude": -84.301231
+        }
+    },
+    {
+        "name": "Whitlock Building",
+        "id": 1049,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.738756,
+            "longitude": -84.301742
+        }
+    },
+    {
+        "name": "Grand Campus",
+        "id": 1050,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.742132,
+            "longitude": -84.304079
+        }
+    },
+    {
+        "name": "North Hall",
+        "id": 1051,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.741537,
+            "longitude": -84.296066
+        }
+    },
+    {
+        "name": "South Hall",
+        "id": 1052,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.740627,
+            "longitude": -84.296935
+        }
+    },
+    {
+        "name": "Intramural Fields",
+        "id": 1053,
+        "description": "Description",
+        "coordinates": {
+            "latitude": 37.737100,
+            "longitude": -84.292952
+        }
+    }
+
+]
